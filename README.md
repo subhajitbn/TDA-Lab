@@ -1,5 +1,5 @@
 # TDA-Lab
-A collection of hands-on experiments designed to teach topological data analysis (TDA). These exercises are inspired by Peter Bubenik's [Topological Data Analysis with R](https://people.clas.ufl.edu/peterbubenik/intro-to-tda/), Henry Adams' [Applied Topology](https://www.youtube.com/playlist?list=PL4kY-dS_mSmLFh9BpI3LqIQnw6KMg0jlt) lecture series, and Katherine Benjamin's [Topological Data Analysis Tutorial](https://www.youtube.com/watch?v=8qXOdF1_nm8&ab_channel=LOGMLSummerSchool).
+A collection of hands-on experiments designed to teach and learn topological data analysis (TDA). These exercises are inspired by Peter Bubenik's [Topological Data Analysis with R](https://people.clas.ufl.edu/peterbubenik/intro-to-tda/), Henry Adams' [Applied Topology](https://www.youtube.com/playlist?list=PL4kY-dS_mSmLFh9BpI3LqIQnw6KMg0jlt) lecture series, and Katherine Benjamin's [Topological Data Analysis Tutorial](https://www.youtube.com/watch?v=8qXOdF1_nm8&ab_channel=LOGMLSummerSchool).
 
 # Notebooks
 This repository currently includes the following Jupyter notebooks:
