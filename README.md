@@ -6,6 +6,6 @@ The notebooks contain videos for better visualization of 3D point clouds. Pass t
 # Notebooks
 This repository currently includes the following Jupyter notebooks:
 
-1. **[TDA_Lab_1](TDA_Lab_1)** – Analyzing point clouds sampled from an annulus and a torus. We visualize the point clouds, compute Vietoris-Rips complexes, and generate persistence diagrams and persistence landscapes.
-2. **[TDA_Lab_2](TDA_Lab_2)** – Focused on persistence landscapes, this notebook examines datasets sampled from a circle, an annulus, and a torus. We create multiple sets of persistence landscapes, apply permutation tests for statistical analysis, and compare the results, including a comparison between two torus datasets.
+1. **[TDA_Lab_1](TDA_Lab_1.ipynb)** – Analyzing point clouds sampled from an annulus and a torus. We visualize the point clouds, compute Vietoris-Rips complexes, and generate persistence diagrams and persistence landscapes.
+2. **[TDA_Lab_2](TDA_Lab_2.ipynb)** – Focused on persistence landscapes, this notebook examines datasets sampled from a circle, an annulus, and a torus. We create multiple sets of persistence landscapes, apply permutation tests for statistical analysis, and compare the results, including a comparison between two torus datasets.
 3. **TDA_Lab_3** – Persistence images. Ongoing...
